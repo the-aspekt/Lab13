@@ -13,6 +13,7 @@ namespace Task1
             MultiBuilding house = new MultiBuilding("г. Иркутск", 20, 15, 12, 3);
             house.Print();
             Console.ReadLine();
+
         }
     }
 }
